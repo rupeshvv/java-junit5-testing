@@ -84,7 +84,8 @@
      - @ValueSource()
   
 - JUnit Parameterized Test - Display Name
-      -  
+      -  @DisplayName()
+
 - JUnit Parameterized Tests - ENUM Source
 - JUnit Parameterized Tests - CSV Source
 - JUnit Parameterized Tests - CSV File Source
